@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "2dd4ee95-1d4b-4dbb-be69-170d2991490c"
+      }
+    },
+    "owner": "fterpin"
   }
 }
